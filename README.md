@@ -1,2 +1,3 @@
-# ea
+# EuroAssembler musings
+
 €ASM musings
